@@ -55,5 +55,14 @@ button.clear {
 }
 
 button.equals {
+  grid-row: span 2;
   background: #34c759;
+}
+
+button.zero {
+  grid-column: span 2;
+}
+
+button.del {
+  background: #ff3b30;
 }
